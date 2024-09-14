@@ -1,0 +1,242 @@
+#: locale=en
+
+## Действие
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Медиа
+
+### Заголовок
+panorama_67A217CF_6BA3_052B_41BB_F730EC012C61.label = 500 bbls Atm. Storage Tank (Oil Tank)
+panorama_67A25404_6BA3_1B16_41CC_2FFC5255E469.label = 500 bbls Atm. Storage Tank (Water Tank)
+panorama_6694F536_6BA1_0572_41D8_F76CC2E93280.label = Access road
+panorama_67A5A285_6BA1_1F12_41D8_4DA1E2D10D09.label = Access road 1
+panorama_67A6D85C_6BA1_0B3F_41D4_CDE33815B650.label = Air cascade system
+panorama_673C248B_6BBF_3B10_41C7_653F9CFE8E7D.label = Air cascade system
+panorama_67A20AFE_6BA3_0CF2_41CC_90003A37D933.label = Air compressor for H2S
+panorama_67A2219A_6BA3_1D32_41D7_966318E7975C.label = Briefing Area( Muster Point)
+panorama_673CA1AE_6BBF_1D14_41D0_CD1CD2185E2E.label = Checkpoint Room
+panorama_67A6CEE8_6BA1_0717_41B3_DF7E607EA158.label = Crane Area
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_0.label = DJI_0401
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_1.label = DJI_0402
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_2.label = DJI_0403
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_3.label = DJI_0404
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_4.label = DJI_0405
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_5.label = DJI_0406
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_6.label = DJI_0407
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_7.label = DJI_0408
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_8.label = DJI_0409
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_9.label = DJI_0410
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_10.label = DJI_0411
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_11.label = DJI_0412
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_12.label = DJI_0413
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_13.label = DJI_0414
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_14.label = DJI_0415
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_15.label = DJI_0416
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_16.label = DJI_0417
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_17.label = DJI_0418
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_18.label = DJI_0419
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_19.label = DJI_0420
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_20.label = DJI_0421
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_21.label = DJI_0422
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_22.label = DJI_0423
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_23.label = DJI_0424
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_24.label = DJI_0425
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_25.label = DJI_0426
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_26.label = DJI_0427
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_27.label = DJI_0428
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_28.label = DJI_0429
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_29.label = DJI_0430
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_30.label = DJI_0431
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_31.label = DJI_0432
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_32.label = DJI_0433
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_33.label = DJI_0434
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_34.label = DJI_0435
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_35.label = DJI_0436
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_36.label = DJI_0437
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_37.label = DJI_0438
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_38.label = DJI_0439
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_39.label = DJI_0440
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_40.label = DJI_0441
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_41.label = DJI_0442
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_42.label = DJI_0443
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_43.label = DJI_0444
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_44.label = DJI_0445
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_45.label = DJI_0446
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_46.label = DJI_0447
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_47.label = DJI_0448
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_48.label = DJI_0449
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_49.label = DJI_0450
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_50.label = DJI_0451
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_51.label = DJI_0452
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F_52.label = DJI_0453
+panorama_673C2728_6BBF_0511_41D3_EBBF2E47F5E5.label = Diner/Restroom
+panorama_67A2200F_6BA3_1B11_41C4_F251AC4F0D3D.label = Flare pit
+panorama_67A2F5CA_6BA1_051C_41D5_977D1A7421EC.label = Fluid Pumping Unit
+panorama_673E44AE_6BBF_1B14_41D9_7354E325B1ED.label = Fluid Pumping Unit - Ladder
+panorama_67A2B27C_6BA1_1FF4_41D5_4FD03BF81E8B.label = Fluid Pumping Unit -control room
+panorama_673D3EA1_6BBF_070E_41C0_AE37A967C173.label = Fluid Pumping Unit-entry incontrol panel
+panorama_673C9848_6BBF_0B11_41D0_5F671A9120A6.label = GF Cabin
+panorama_67A3EA95_6BA1_0F0B_41D6_F8F620E23977.label = H.Surge Tank Trailer
+panorama_67A24CF0_6BA3_0B0E_41D2_22B4B9C3DAEC.label = H.Surge Tank Trailer - Ladder (in)
+panorama_67A23934_6BA3_0D0B_41C8_0A99A17B8F15.label = H.Surge Tank Trailer - Ladder (out)
+panorama_67A5E7B0_6BA3_050E_41D5_2211F1EEBE0B.label = H2S Room
+panorama_673C40CD_6BBF_7B14_41CB_A2D92C6DEBF6.label = H2S Room (in)
+panorama_67A254BE_6BA3_1B6F_41D6_A03B2442D693.label = Horizontal Surge tank
+panorama_67A200C4_6BA3_7B15_41C1_84F833A1A203.label = Horizontal Surge tank 1
+panorama_67A23BEF_6BA3_0CEF_41D9_C37EE822E09B.label = Horizontal Surge tank 2
+panorama_67A22788_6BA3_051D_41D3_A31EB8388D64.label = Horizontal Surge tank 3
+panorama_67A30C18_6BA1_0B34_41C6_B19D8A3AAEA5.label = Muster point
+panorama_67A6C207_6BA1_7F1C_41D4_8DF6BF2917E8.label = Office Area
+panorama_7F3A4977_6BA1_0DE6_41D9_E3A8DBF1E51A.label = Overview1
+panorama_78B553D7_6BA1_7D3B_41D5_A013D3FD0B0E.label = Overview2
+panorama_78B41E47_6BA1_0710_41C7_F3FF446172E3.label = Overview3
+panorama_78B558F6_6BA1_0CF2_41D3_3F093F29099D.label = Overview4
+panorama_67A2EF94_6BA1_050B_41D7_2B04160AA39A.label = Parking Area
+panorama_67A7821D_6BA1_FF36_41BB_22EEB85E6DDB.label = Parking Area 1
+panorama_67A6A94F_6BA1_0D14_41C6_4A5FDB6C6B46.label = Process Trailer
+panorama_67A6953C_6BA1_056F_41D9_25A9022F5200.label = Process Trailer 1
+panorama_673CBAE6_6BBF_0F1E_41A7_DDB52FBEE2F1.label = RN Office & Diner(restroom)
+panorama_673CFD93_6BBF_0536_41D4_826D168027BD.label = RN Office (in)
+panorama_67A6FBD8_6BA1_0D37_41D3_5A3D511B4B7B.label = SF-46 View
+panorama_67A3F6AB_6BA1_0711_41A9_65D671B86934.label = Separator Relief Line
+panorama_673D25B1_6BBF_050E_41D3_2AA9D7E63D35.label = Separator Trailer  CM-01&SSV-01
+panorama_673D1930_6BBF_0D0C_41CA_8A1CF66EC29F.label = Separator Trailer - 3-Phase Separator
+panorama_673D9277_6BBF_1FFD_41C8_C49BF668F8A7.label = Separator Trailer - Accessory
+panorama_673DDF75_6BBF_05F1_41BD_C959A73BF13A.label = Separator Trailer -BM-01
+panorama_673D7BFD_6BBF_0CF5_41B3_9FC2AF364B21.label = Separator Trailer BM-01
+panorama_67A2051B_6BA1_0535_41C3_C013C906BEF6.label = Separator trailer
+panorama_67A20DD4_6BA1_053D_41D1_5A138FB7AC0C.label = Separator trailer -ESD-01
+panorama_67A23122_6BA1_1D08_41D7_7F5555425397.label = Separator trailer -Ladder
+panorama_67A29F2E_6BA1_0515_41C0_8FCF734CEAFA.label = Slickline Unit
+panorama_67A2E90F_6BA1_0D2F_41A5_A7EC570B6D16.label = Slickline Unit 1
+panorama_67A23524_6BA1_050A_4196_13606F2B3D4E.label = Slickline Unit- Ural
+panorama_67A64058_6BA1_1B32_4156_195E4E2AD43C.label = Slickline Unit-Control panel 1
+panorama_67A64C8D_6BA1_0B17_41D4_52E150CA6B66.label = Slickline Unit-entry in cabin
+panorama_67A60377_6BA0_FDFC_41C2_5C7262868487.label = Smoking Area
+panorama_67A5AC30_6BA3_0B0B_41DA_2BC920141087.label = Storage Tanks  Vent Line
+panorama_67A5F4D8_6BA3_7B32_419D_65B36E1C8425.label = Storage Tanks  Vent Line 1
+panorama_67A21F56_6BA3_053C_41C4_C7F23347444E.label = Storage Tanks Area
+panorama_67A23FCC_6BA3_0516_41C7_CE4C179FD6E6.label = Storage Tanks Area (W)
+panorama_67A2431E_6BA0_FD36_41C8_6D618FDEDF6A.label = Surge Tank Relief Line
+panorama_67A2F36F_6BA3_3DEF_41B9_86715F7090E0.label = Surge Tank Vent Line
+panorama_67A5DE5B_6BA3_0731_41B4_05211FDF7640.label = Utility Trailer Mounted
+panorama_673DB1F4_6BBF_3CF4_41D3_E6791B081F03.label = Utility Trailer Mounted - DAQ Lab Cabin
+panorama_673DA968_6BBF_0D13_41B7_AC39430DFB5E.label = Utility Trailer Mounted - Generator
+panorama_673DB55C_6BBF_053B_41AA_33E58F696EB1.label = Utility Trailer Mounted -Lab SOP
+panorama_673D9B89_6BBF_0D1B_41CE_CA9D72C4427E.label = Utility Trailer Mounted Pipe Rack
+panorama_673C4E84_6BBF_0712_41D3_BDA2575F83C4.label = WC & Water tank
+panorama_67A2E88B_6BA1_0B2B_41D3_232E98CAA80A.label = Water  tanker
+panorama_67A29C0F_6BA1_0B13_41C3_86A94A41E53B.label = Well head SF-46(W)
+panorama_67A67555_6BA1_053C_41D3_DCB0CCC45A10.label = WellHead SF-46(E)
+panorama_67A26C34_6BA1_0B74_41C3_3F8E80716DE1.label = WellHead SF-46(S)
+panorama_67A2BB6B_6BA3_0D12_41D5_6B707AC8DE54.label = Wilden Pump
+panorama_673C456E_6BBF_0513_41C4_78BB9CC00B2F.label = Workshop (entry)
+panorama_673C1B5C_6BBF_0D38_4183_DE9A4E186ED4.label = Workshop (in)
+album_725622A4_6BA1_7F16_41D2_E8424ACB4A0F.label = Фото пльбом DJI_0401
+
+## Скин
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_079D942C_1B3F_DB22_41B8_5F3681878885.url = skin/Image_079D942C_1B3F_DB22_41B8_5F3681878885_en.png
+Image_19CEA73C_195B_C561_41B8_641744E1C1CE.url = skin/Image_19CEA73C_195B_C561_41B8_641744E1C1CE_en.jpg
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
+Image_CEBEF1B7_3B4F_DD21_41C5_67B348B36F6E.url = skin/Image_CEBEF1B7_3B4F_DD21_41C5_67B348B36F6E_en.jpg
+
+### Выпадающий список
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ACCESS ROAD
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = OFFICE AREA
+DropDown_2362001A_1949_BB1A_415F_54297FAC16FD.label = OTHER
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = OVERVIEW
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = PARKING AREA
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SLICKLINE & TESTING AREA
+
+### Кнопка
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+
+### Многострочный текст
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.720000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.83vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.469999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.280000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Обозначение
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = LOREM
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = RN-BATIL-SUFAYA-46
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = RN-MIDDLE EAST COMPANY LLC
+
+## Тур
+
+### Заголовок
+tour.name = SUFAYA-46_09.2024
+
+### Описание
